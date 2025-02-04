@@ -20,7 +20,7 @@ export default function Home() {
       
       <div className="w-48 h-48 relative">
         <Image
-          src="/catenary-labs-site/logo.svg"
+          src="/logo.svg"
           alt="CatenaryLabs Logo"
           fill
           priority

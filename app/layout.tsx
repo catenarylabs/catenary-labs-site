@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: 'CatenaryLabs',
     images: [
       {
-        url: '/catenary-labs-site/logo.svg',
+        url: '/logo.svg',
         width: 800,
         height: 600,
       },
