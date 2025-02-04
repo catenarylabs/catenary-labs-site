@@ -48,10 +48,7 @@ export default function Home() {
             </Link>
             <Link href="https://github.com/catenarylabs/" className="block hover:underline">
               [Github]
-            </Link>
-            <Link href="https://operatoreconomy.com" className="block hover:underline">
-              [Operator Economy]
-            </Link>
+            </Link>         
           </div>
         </div>
 
