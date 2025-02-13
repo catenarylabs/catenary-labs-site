@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://catenarylabs.com/sitemap.xml
