@@ -48,7 +48,10 @@ export default function Home() {
             </Link>
             <Link href="https://github.com/catenarylabs/" className="block hover:underline">
               [Github]
-            </Link>         
+            </Link>     
+            <Link href="https://www.linkedin.com/company/catenary-labs" className="block hover:underline">
+              [LinkedIn]
+            </Link>
           </div>
         </div>
 

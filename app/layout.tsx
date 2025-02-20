@@ -16,6 +16,10 @@ export const metadata: Metadata = {
   title: 'CatenaryLabs',
   description: 'CatenaryLabs is a research-driven company building for the decentralised economy.',
   keywords: ['DeFi', 'L2', 'Blockchain', 'Decentralised Economy', 'Research'],
+  metadataBase: new URL('https://catenarylabs.com'),
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     title: 'CatenaryLabs',
     description: 'Research-driven company building for the decentralised economy',
