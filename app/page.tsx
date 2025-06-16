@@ -35,6 +35,15 @@ export default function Home() {
           decentralised economy. We have deep experience building in DeFi, L2 and 
           decentralised infrastructure and services.
         </p>
+        {/* Products Section */}
+        <div className="space-y-2">
+          <h2 className="text-lg font-semibold mb-4">Products:</h2>
+          <div className="space-y-2">
+            <Link href="https://pagrin.com" className="block hover:underline">
+              [Pagrin]
+            </Link>
+          </div>
+        </div>
 
         {/* Links Section */}
         <div className="space-y-2">
