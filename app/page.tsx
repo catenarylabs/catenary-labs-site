@@ -1,6 +1,6 @@
 'use client';
 import Image from 'next/image'
-import Link from 'next/link'
+// import Link from 'next/link'
 
 const DotBackground = () => (
   <div className="fixed inset-0 -z-10">
@@ -30,42 +30,12 @@ export default function Home() {
 
       <div className="space-y-6 w-96">
         <p className="text-xs">
-          CatenaryLabs is a research-driven company building for the decentralised economy. 
-          We build products that enable efficient and transparent management layer for the 
-          decentralised economy. We have deep experience building in DeFi, L2 and 
-          decentralised infrastructure and services.
+          Catenary Industries is building applied intelligence for critical industries like mining, energy, agriculture, manufacturing e.t.c.
         </p>
-        {/* Products Section */}
-        <div className="space-y-2">
-          <h2 className="text-lg font-semibold mb-4">Products:</h2>
-          <div className="space-y-2">
-            <Link href="https://pagrin.com" className="block hover:underline">
-              [Pagrin]
-            </Link>
-          </div>
-        </div>
-
-        {/* Links Section */}
-        <div className="space-y-2">
-          <h2 className="text-lg font-semibold mb-4">Links:</h2>
-          <div className="space-y-2">
-            <Link href="https://research.catenarylabs.com/" className="block hover:underline">
-              [Research]
-            </Link>
-            <Link href="https://x.com/catenarylabs" className="block hover:underline">
-              [Twitter]
-            </Link>
-            <Link href="https://github.com/catenarylabs/" className="block hover:underline">
-              [Github]
-            </Link>     
-            <Link href="https://www.linkedin.com/company/catenary-labs" className="block hover:underline">
-              [LinkedIn]
-            </Link>
-          </div>
-        </div>
-
+        <p className="text-xs">Our mission is to increase productivity of critical industries in the global south.</p>
+        <p className="text-x">We have deep experience AI, financial services and robotics.</p>
         <div className="mt-8">
-          <p className="font-mono">contact@catenarylabs.com</p>
+          <p className="font-mono">Reach Out: contact@catenarylabs.com</p>
         </div>
       </div>
     </main>

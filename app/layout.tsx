@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
+// import "./globals.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,16 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'CatenaryLabs',
-  description: 'CatenaryLabs is a research-driven company building for the decentralised economy.',
+  title: 'Catenary Industries',
+  description: 'Catenary Industries is building applied intelligence for critical industries like mining, energy, e.t.c.',
   keywords: ['DeFi', 'L2', 'Blockchain', 'Decentralised Economy', 'Research'],
   metadataBase: new URL('https://catenarylabs.com'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: 'CatenaryLabs',
-    description: 'Research-driven company building for the decentralised economy',
+    title: 'Catenary Industires',
+    description: 'Catenary Industries is building applied intelligence for critical industries like mining, energy, e.t.c.',
     url: 'https://catenarylabs.com',
     siteName: 'CatenaryLabs',
     images: [
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'CatenaryLabs',
-    description: 'Research-driven company building for the decentralised economy',
+    description: 'Catenary Industries is building applied intelligence for critical industries like mining, energy, e.t.c.',
     creator: '@catenarylabs',
   },
   robots: {
