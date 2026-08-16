@@ -35,7 +35,7 @@ export default function Home() {
         <p className="text-xs">Our mission is to increase productivity of critical industries in the global south.</p>
         <p className="text-x">We have deep experience in AI, financial services and robotics.</p>
         <div className="mt-8">
-          <p className="font-mono">Reach Out: contact@catenarylabs.com</p>
+          <p className="font-mono">Reach out: contact@catenarylabs.com</p>
         </div>
       </div>
     </main>
