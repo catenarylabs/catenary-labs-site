@@ -33,7 +33,7 @@ export default function Home() {
           Catenary Industries is building applied intelligence for critical industries like mining, energy, agriculture, manufacturing e.t.c.
         </p>
         <p className="text-xs">Our mission is to increase productivity of critical industries in the global south.</p>
-        <p className="text-x">We have deep experience AI, financial services and robotics.</p>
+        <p className="text-x">We have deep experience in AI, financial services and robotics.</p>
         <div className="mt-8">
           <p className="font-mono">Reach Out: contact@catenarylabs.com</p>
         </div>
